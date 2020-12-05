@@ -4,6 +4,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Day01Tests.fs" />
   </ItemGroup>
 
   <ItemGroup>
