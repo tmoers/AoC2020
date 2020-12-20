@@ -31,4 +31,8 @@ let main argv =
     printSolution "06-b" (Day06.solveB resourcesDir)
     printf "\n"
 
+    printSolution "07-a" (Day07.solveA resourcesDir)
+    printSolution "07-b" (Day07.solveB resourcesDir)
+    printf "\n"
+
     0 // return an integer exit code

@@ -15,6 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Resources\day04.input.txt = Resources\day04.input.txt
 		Resources\day05.input.txt = Resources\day05.input.txt
 		Resources\day06.input.txt = Resources\day06.input.txt
+		Resources\day07.input.txt = Resources\day07.input.txt
 	EndProjectSection
 EndProject
 Global
